@@ -1,0 +1,4 @@
+cd <path to folder with script>
+Start
+node genMM.js
+final result will be like:
